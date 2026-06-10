@@ -9,9 +9,6 @@ Zwei Python-Skripte zur automatischen Generierung von Landnutzungskarten aus Ope
 
 **Live-Demo:** [tullah-gis.github.io/geoai-maps](https://tullah-gis.github.io/geoai-maps/)
 
-### Druckfertige PNG-Karte
-![Landnutzungskarte Sachsenhausen](landnutzung_sachsenhausen.png)
-
 ---
 
 ## Skripte
